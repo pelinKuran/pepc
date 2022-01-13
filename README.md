@@ -106,6 +106,6 @@ This brings ability to check few properties of the image target, which intended 
  It is possible to determine two different states of a product (such as switch open or switch close) by using OpenCV's template matching alogrithm. It does provide cross correlation of given two images. Here I used tesseract library to read numbers on switch and tried to use them as their ID. 
  
  - I build tesseract using vcpkg. `vcpkg install tesseract:x64-windows-static`
-
+<p align="right">(<a href="#top">back to top</a>)</p>
 ## Acknowledgements
 A special gratitude I give to HARF team for their support and mentorship.
