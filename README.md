@@ -81,7 +81,7 @@ In this section I listed development stages of the PEPC library.
 1. I made lots of research about template matching, pattern matching algorithms. 
 2. I implemented OpenCV's pattern matching tutorials before I customized them for my purpose.
 3. I developed pattern matching algorithm using OpenCV's documentations and tutorials.
-4. I made researches about pose calculation and studied fundementals of image processing using the course <a href="https://www.udacity.com/course/introduction-to-computer-vision--ud810">Introduction to computer vision. </a>
+4. I made researches about pose calculation and studied fundementals of image processing using the course <a href="https://www.udacity.com/course/introduction-to-computer-vision--ud810">Introduction to Computer Vision. </a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -90,12 +90,24 @@ In this section I listed development stages of the PEPC library.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Let's talk what this library capable of!
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+* Pattern Evaluator
+This brings ability to check few properties of the image target, which intended to be used as a natural marker. By checking properties that are likely to effect tracking quality PEPC may give feedback about the quality of the pattern. These properties may listed as,
+    Checking,
+    - brightness of the environment
+    - total keypoints found in the image
+    - total inliers number
+    - selected pattern to frame size ratio
+    
+ * Matching Algorithm
+ This algorithm is developed using ORB keypoint extractor, BRIEF descriptor, MAGSAC++ estimator. It tracks pattern by matching keypoints from the captured frame during run time.
+ 
+ * Pose Calculation
+ After having PEPC's pose calculation algortihm, you will be able to use naturaş feature markers to calculate camera pose in 6 dof.
+ 
+ * Finding Dissimilarity
+ It is possible to determine two different states of a product (such as switch open or switch close) by using OpenCV's template matching alogrithm. It does provide cross correlation of given two images. 
 
 
 <!-- ROADMAP -->
