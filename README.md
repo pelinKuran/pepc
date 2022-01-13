@@ -84,7 +84,7 @@ In this section I listed development stages of the PEPC library.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+### Usage
 
 Let's talk what this library capable of!
 
