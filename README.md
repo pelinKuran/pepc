@@ -70,8 +70,7 @@ PEPC has 4 different capabilities. These are
 
 <!-- GETTING STARTED -->
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
+Make sure you fulfilled the prerequisities before using the library.
 * OpenCV 4.5.3
 * C++ (ISO C++ 14 Standard)
 * Tesseract 4.1
