@@ -73,7 +73,11 @@ In this section I listed development stages of the PEPC library.
 1. I made lots of research about template matching, pattern matching algorithms. 
 2. I implemented OpenCV's pattern matching tutorials before I customized them for my purpose.
 3. I developed pattern matching algorithm using OpenCV's documentations and tutorials.
-4. I made researches about pose calculation and studied fundementals of image processing using the course <a href="https://www.udacity.com/course/introduction-to-computer-vision--ud810">Introduction to Computer Vision. </a>
+4. I made researches about pose calculation and studied fundementals of image processing using the course <a href="https://www.udacity.com/course/introduction-to-computer-vision--ud810">Introduction to Computer Vision.  </a>
+5. Later on I developed natural feature marker pose calculation algorithm in light of previous researches. 
+6. Made reserach about pattern evaluator systems, I read various articles and tried to implement some approaches mentioned on those articles.
+7. I tried to add more features to the pattern evaluator algorithm.
+8. I worked on cross correlation and created an algorithm to determine a switch's state, and number written on that switch.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
