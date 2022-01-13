@@ -75,21 +75,13 @@ Make sure you fulfilled the prerequisities before using the library.
 * C++ (ISO C++ 14 Standard)
 * Tesseract 4.1
 
-### Installation
+### Development Steps
+In this section I listed development stages of the PEPC library. 
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. I made lots of research about template matching, pattern matching algorithms. 
+2. I implemented OpenCV's pattern matching tutorials before I customized them for my purpose.
+3. I developed pattern matching algorithm using OpenCV's documentations and tutorials.
+4. I made researches about pose calculation and studied fundementals of image processing using the course <a href="https://www.udacity.com/course/introduction-to-computer-vision--ud810">Introduction to computer vision. </a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
