@@ -108,4 +108,4 @@ This brings ability to check few properties of the image target, which intended 
  - I build tesseract using vcpkg. `vcpkg install tesseract:x64-windows-static`
 
 ## Acknowledgements
-I would like to thank to my supervisors Resul Aydoğan and Sefa Ödemiş for all their help and advice with this work. I would also like to thank rest of the HARF team for their support during my co-op journey.
+I would like to thank to my supervisor Resul Aydoğan and Sefa Ödemiş for all their help and advice with this work. I would also like to thank rest of the HARF team for their support during my co-op journey.
