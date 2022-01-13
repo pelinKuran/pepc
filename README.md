@@ -30,8 +30,8 @@
     <li>
          <a href="#project-details">Project Details Steps</a>
     <ul>
-         <a href="#development-steps">Development Steps</a>
-          <a href="#usage">Usage</a>
+        <li><a href="#development-steps">Development Steps</a></li>
+        <li><a href="#usage">Usage</a></li>
     </ul>
     </li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
