@@ -24,20 +24,17 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
+        
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+         <a href="#project-details">Project Details Steps</a>
+    <ul>
+         <a href="#development-steps">Development Steps</a>
+        <a href="#usage">Usage</a></li>
+    </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -74,6 +71,8 @@ Make sure you fulfilled the prerequisities before using the library.
 * OpenCV 4.5.3
 * C++ (ISO C++ 14 Standard)
 * Tesseract 4.1
+
+## Project Details
 
 ### Development Steps
 In this section I listed development stages of the PEPC library. 
