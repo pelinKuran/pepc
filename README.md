@@ -10,7 +10,7 @@
 <h3 align="center">PEPC</h3>
 
   <p align="center">
-    PEPC is a libary that contains several computer vision applications, and my Bachelor Final Project.   
+    PEPC is a libary that contains several image processing applications, and my Bachelor Final Project.   
 
 </div>
 
@@ -49,22 +49,20 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+PEPC has 4 different capabilities. These are
+* Pattern Evaluation
+* Pattern Matching
+* Natural Feature Marker Pose Calculation 6 DoF
+* Cross Correlation Calculation using Template Matching
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 ### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [C++ (ISO C++14 Standard) ](https://isocpp.org/wiki/faq/cpp14)
+* [OpenCV](https://opencv.org/)
+* [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
