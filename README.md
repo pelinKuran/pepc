@@ -21,18 +21,17 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About The Project</a> 
       <ul>
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
-        
     </li>
     <li>
          <a href="#project-details">Project Details Steps</a>
     <ul>
          <a href="#development-steps">Development Steps</a>
-        <a href="#usage">Usage</a></li>
+          <a href="#usage">Usage</a>
     </ul>
     </li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
